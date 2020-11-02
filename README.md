@@ -1,16 +1,14 @@
-### Hi there 👋
+**743 contributions this year:**
+<p align="center">
+  <img src="http://leereilly.net/leereilly/contributions.png" width="75%"><br>
+  <img src="http://leereilly.net/leereilly/gitris.gif" width="300">
+  <img src="http://hits.dwyl.com/leereilly/leereilly.svg" width="0">
+</div>
 
-<!--
-**avivajpeyi/avivajpeyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on completing my PhD at Monash Uni.
+- 🌱 I’m looking to collaborate on Unity projects! 
+- 📫 How to reach me: avi.vajpeyi@gmail.com
+

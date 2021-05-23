@@ -9,6 +9,5 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on completing my PhD at Monash Uni.
-- 🌱 I’m looking to collaborate on Unity projects! 
 - 📫 How to reach me: avi.vajpeyi@gmail.com
 

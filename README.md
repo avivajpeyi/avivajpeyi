@@ -5,7 +5,7 @@
 
 **Avi's contributions:**
 ![contribs]
-<img src="https://github.com/avivajpeyi/avivajpeyi/blob/main/assets/github-metrics.svg" width="100%" height="100%">
+<img src="https://github.com/avivajpeyi/avivajpeyi/blob/main/assets/github-metrics.svg" width="100%">
 
 [contribs]: https://github.com/avivajpeyi/avivajpeyi/blob/main/assets/github-contribution-grid-snake2.svg
 [metrics]:  https://github.com/avivajpeyi/avivajpeyi/blob/main/assets/github-metrics.svg

@@ -39,8 +39,11 @@ jobs:
           plugin_habits_languages_threshold: 0%
       
       - name: move assets 
-        run: mv *.svg assets/
-        run: rm *.svg
+        run: mv *.svg assets/ 
+      - name: Remove File
+        uses: JesseTG/rm@v1.0.3
+        with:
+          path: github-metrics.svg
         
       - uses: GuillaumeFalourd/git-commit-push@v1.3
         with:

@@ -4,10 +4,10 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
   
-  # run on every push on the master branch
-  push:
-    branches:
-    - main
+#   # run on every push on the master branch
+#   push:
+#     branches:
+#     - main
 
 jobs:
   build:
@@ -30,7 +30,6 @@ jobs:
           template: classic
           base: activity, repositories, metadata
           base_indepth: yes
-          config_display: columns
           config_octicon: yes
           config_timezone: Australia/Melbourne
           plugin_lines: yes
@@ -41,6 +40,7 @@ jobs:
       
       - name: move assets 
         run: mv *.svg assets/
+        run: rm *.svg
         
       - uses: GuillaumeFalourd/git-commit-push@v1.3
         with:

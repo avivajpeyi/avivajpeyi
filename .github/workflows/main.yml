@@ -1,0 +1,52 @@
+name: Generate metrics + contribution assests
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - main
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Sutil/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: assets/github-contribution-grid-snake2.svg
+          snake_color: 'green'
+      - uses: actions/checkout@v2.3.4
+      - uses: GuillaumeFalourd/git-commit-push@v1.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
+
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: avivajpeyi
+          template: classic
+          base: activity, repositories, metadata
+          base_indepth: yes
+          config_display: columns
+          config_octicon: yes
+          config_timezone: Australia/Melbourne
+          plugin_lines: yes
+          plugin_lines_history_limit: 8
+          plugin_lines_repositories_limit: 40
+          plugin_lines_sections: base
+          plugin_habits_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_lines_history_limit: 20
+          plugin_lines_repositories_limit: 7
+          plugin_lines_sections: base

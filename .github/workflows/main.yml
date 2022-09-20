@@ -41,4 +41,4 @@ jobs:
           plugin_habits_languages_threshold: 0%
       - uses: GuillaumeFalourd/git-commit-push@v1.3
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}

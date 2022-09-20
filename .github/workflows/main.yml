@@ -24,7 +24,6 @@ jobs:
           snake_color: 'green'
       - uses: lowlighter/metrics@latest
         with:
-          output_action: none
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: avivajpeyi
@@ -39,6 +38,15 @@ jobs:
           plugin_lines_repositories_limit: 40
           plugin_lines_sections: base
           plugin_habits_languages_threshold: 0%
+      
+      - name: move assets 
+        run: mv *.svg assets/
+        
       - uses: GuillaumeFalourd/git-commit-push@v1.3
+        with:
+          commit_message: "update assets"
+          force: true
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }
+          
+

@@ -3,12 +3,9 @@
 - 📫 Reach me at avi.vajpeyi@monash.edu
 
 
-**Avi's Contributions this year:**
+**Avi's contributions:**
 ![contribs]
-
-**Random stats**
-
-![metrics]
+<img src="https://github.com/avivajpeyi/avivajpeyi/blob/main/assets/github-metrics.svg" width="100%">
 
 [contribs]: https://github.com/avivajpeyi/avivajpeyi/blob/main/assets/github-contribution-grid-snake2.svg
 [metrics]:  https://github.com/avivajpeyi/avivajpeyi/blob/main/assets/github-metrics.svg

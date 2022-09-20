@@ -47,6 +47,6 @@ jobs:
           commit_message: "update assets"
           force: true
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           
 

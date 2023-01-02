@@ -1,7 +1,7 @@
 name: Generate metrics + contribution assests
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute every 168 hours (1 week)
+    - cron: "* */168 * * *"
   workflow_dispatch:
   
 #   # run on every push on the master branch
@@ -40,19 +40,19 @@ jobs:
           config_display: columns
       
       
-      - name: move assets 
-        run: mv *.svg assets/ 
+#       - name: move assets 
+#         run: mv *.svg assets/ 
         
-      - name: Remove File
-        uses: JesseTG/rm@v1.0.3
-        with:
-          path: github-metrics.svg
+#       - name: Remove File
+#         uses: JesseTG/rm@v1.0.3
+#         with:
+#           path: github-metrics.svg
         
-      - uses: GuillaumeFalourd/git-commit-push@v1.3
-        with:
-          commit_message: "update assets"
-          force: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+#       - uses: GuillaumeFalourd/git-commit-push@v1.3
+#         with:
+#           commit_message: "update assets"
+#           force: true
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           
 

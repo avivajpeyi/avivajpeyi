@@ -1,6 +1,6 @@
 ### <img src="https://github.com/avivajpeyi/avivajpeyi/blob/main/assets/wave.gif"  width="20" height="20"> Hi there!
-- 🔭  Im Avi! A PhD student at Monash 
-- 📫 Reach me at avi.vajpeyi@monash.edu
+- 🔭  Im Avi! A research fellow at Uni of Auckland
+- 📫 Reach me at avi.vajpeyi@gmail.com
 
 
 **Avi's contributions:**

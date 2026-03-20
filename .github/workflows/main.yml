@@ -51,15 +51,5 @@ jobs:
           config_output: json
           plugin_languages: yes
           plugin_languages_limit: 8
-
-      - name: 💾 Save JSON Data
-        run: |
-          mkdir -p assets/data
-          mv github-metrics.json assets/data/metrics.json
-
-      - name: 📝 Commit and Push metrics data
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "data: update metrics.json [skip ci]"
-          file_pattern: 'assets/data/metrics.json'
-          push_options: '--force'
+          filename: assets/data/metrics.json
+          committer_message: "data: update metrics.json [skip ci]"

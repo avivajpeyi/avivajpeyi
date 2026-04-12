@@ -1,59 +1,10 @@
 {
   "username": "avivajpeyi",
-  "generatedAt": "2026-04-05T03:17:11.532Z",
-  "from": "2025-04-05T03:17:11.532Z",
-  "to": "2026-04-05T03:17:11.532Z",
-  "totalContributions": 2110,
+  "generatedAt": "2026-04-12T03:24:40.868Z",
+  "from": "2025-04-12T03:24:40.868Z",
+  "to": "2026-04-12T03:24:40.868Z",
+  "totalContributions": 2128,
   "days": [
-    {
-      "date": "2025-04-06",
-      "count": 4,
-      "level": "FIRST_QUARTILE",
-      "color": "#9be9a8",
-      "weekday": 0
-    },
-    {
-      "date": "2025-04-07",
-      "count": 2,
-      "level": "FIRST_QUARTILE",
-      "color": "#9be9a8",
-      "weekday": 1
-    },
-    {
-      "date": "2025-04-08",
-      "count": 4,
-      "level": "FIRST_QUARTILE",
-      "color": "#9be9a8",
-      "weekday": 2
-    },
-    {
-      "date": "2025-04-09",
-      "count": 4,
-      "level": "FIRST_QUARTILE",
-      "color": "#9be9a8",
-      "weekday": 3
-    },
-    {
-      "date": "2025-04-10",
-      "count": 9,
-      "level": "FIRST_QUARTILE",
-      "color": "#9be9a8",
-      "weekday": 4
-    },
-    {
-      "date": "2025-04-11",
-      "count": 1,
-      "level": "FIRST_QUARTILE",
-      "color": "#9be9a8",
-      "weekday": 5
-    },
-    {
-      "date": "2025-04-12",
-      "count": 0,
-      "level": "NONE",
-      "color": "#ebedf0",
-      "weekday": 6
-    },
     {
       "date": "2025-04-13",
       "count": 0,
@@ -274,8 +225,8 @@
     {
       "date": "2025-05-14",
       "count": 11,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 3
     },
     {
@@ -428,8 +379,8 @@
     {
       "date": "2025-06-05",
       "count": 22,
-      "level": "THIRD_QUARTILE",
-      "color": "#30a14e",
+      "level": "SECOND_QUARTILE",
+      "color": "#40c463",
       "weekday": 4
     },
     {
@@ -750,8 +701,8 @@
     {
       "date": "2025-07-21",
       "count": 20,
-      "level": "THIRD_QUARTILE",
-      "color": "#30a14e",
+      "level": "SECOND_QUARTILE",
+      "color": "#40c463",
       "weekday": 1
     },
     {
@@ -778,8 +729,8 @@
     {
       "date": "2025-07-25",
       "count": 10,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 5
     },
     {
@@ -918,8 +869,8 @@
     {
       "date": "2025-08-14",
       "count": 10,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 4
     },
     {
@@ -953,8 +904,8 @@
     {
       "date": "2025-08-19",
       "count": 10,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 2
     },
     {
@@ -1016,8 +967,8 @@
     {
       "date": "2025-08-28",
       "count": 10,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 4
     },
     {
@@ -1051,8 +1002,8 @@
     {
       "date": "2025-09-02",
       "count": 11,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 2
     },
     {
@@ -1121,8 +1072,8 @@
     {
       "date": "2025-09-12",
       "count": 11,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 5
     },
     {
@@ -1170,8 +1121,8 @@
     {
       "date": "2025-09-19",
       "count": 31,
-      "level": "FOURTH_QUARTILE",
-      "color": "#216e39",
+      "level": "THIRD_QUARTILE",
+      "color": "#30a14e",
       "weekday": 5
     },
     {
@@ -1191,8 +1142,8 @@
     {
       "date": "2025-09-22",
       "count": 10,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 1
     },
     {
@@ -1212,8 +1163,8 @@
     {
       "date": "2025-09-25",
       "count": 11,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 4
     },
     {
@@ -1289,8 +1240,8 @@
     {
       "date": "2025-10-06",
       "count": 22,
-      "level": "THIRD_QUARTILE",
-      "color": "#30a14e",
+      "level": "SECOND_QUARTILE",
+      "color": "#40c463",
       "weekday": 1
     },
     {
@@ -1569,8 +1520,8 @@
     {
       "date": "2025-11-15",
       "count": 10,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 6
     },
     {
@@ -1639,8 +1590,8 @@
     {
       "date": "2025-11-25",
       "count": 11,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 2
     },
     {
@@ -1653,8 +1604,8 @@
     {
       "date": "2025-11-27",
       "count": 10,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 4
     },
     {
@@ -1695,8 +1646,8 @@
     {
       "date": "2025-12-03",
       "count": 11,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 3
     },
     {
@@ -1947,8 +1898,8 @@
     {
       "date": "2026-01-08",
       "count": 11,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 4
     },
     {
@@ -2101,15 +2052,15 @@
     {
       "date": "2026-01-30",
       "count": 20,
-      "level": "THIRD_QUARTILE",
-      "color": "#30a14e",
+      "level": "SECOND_QUARTILE",
+      "color": "#40c463",
       "weekday": 5
     },
     {
       "date": "2026-01-31",
       "count": 22,
-      "level": "THIRD_QUARTILE",
-      "color": "#30a14e",
+      "level": "SECOND_QUARTILE",
+      "color": "#40c463",
       "weekday": 6
     },
     {
@@ -2269,8 +2220,8 @@
     {
       "date": "2026-02-23",
       "count": 10,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 1
     },
     {
@@ -2395,8 +2346,8 @@
     {
       "date": "2026-03-13",
       "count": 33,
-      "level": "FOURTH_QUARTILE",
-      "color": "#216e39",
+      "level": "THIRD_QUARTILE",
+      "color": "#30a14e",
       "weekday": 5
     },
     {
@@ -2430,8 +2381,8 @@
     {
       "date": "2026-03-18",
       "count": 30,
-      "level": "FOURTH_QUARTILE",
-      "color": "#216e39",
+      "level": "THIRD_QUARTILE",
+      "color": "#30a14e",
       "weekday": 3
     },
     {
@@ -2472,8 +2423,8 @@
     {
       "date": "2026-03-24",
       "count": 11,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 2
     },
     {
@@ -2514,8 +2465,8 @@
     {
       "date": "2026-03-30",
       "count": 11,
-      "level": "SECOND_QUARTILE",
-      "color": "#40c463",
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
       "weekday": 1
     },
     {
@@ -2548,16 +2499,65 @@
     },
     {
       "date": "2026-04-04",
-      "count": 39,
+      "count": 44,
       "level": "FOURTH_QUARTILE",
       "color": "#216e39",
       "weekday": 6
     },
     {
       "date": "2026-04-05",
-      "count": 4,
+      "count": 8,
       "level": "FIRST_QUARTILE",
       "color": "#9be9a8",
+      "weekday": 0
+    },
+    {
+      "date": "2026-04-06",
+      "count": 8,
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
+      "weekday": 1
+    },
+    {
+      "date": "2026-04-07",
+      "count": 5,
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
+      "weekday": 2
+    },
+    {
+      "date": "2026-04-08",
+      "count": 14,
+      "level": "SECOND_QUARTILE",
+      "color": "#40c463",
+      "weekday": 3
+    },
+    {
+      "date": "2026-04-09",
+      "count": 5,
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
+      "weekday": 4
+    },
+    {
+      "date": "2026-04-10",
+      "count": 1,
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
+      "weekday": 5
+    },
+    {
+      "date": "2026-04-11",
+      "count": 10,
+      "level": "FIRST_QUARTILE",
+      "color": "#9be9a8",
+      "weekday": 6
+    },
+    {
+      "date": "2026-04-12",
+      "count": 0,
+      "level": "NONE",
+      "color": "#ebedf0",
       "weekday": 0
     }
   ]
